@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Api", "ShopPSU4BackEnd\Web Api.csproj", "{8A3687D5-A607-418D-95E8-FF1EEBF02A6D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7AC839A4-DF14-42A1-8C99-45825E2EC40A} = {7AC839A4-DF14-42A1-8C99-45825E2EC40A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessAccessLayer", "BusinessAccessLayer\BusinessAccessLayer.csproj", "{7AC839A4-DF14-42A1-8C99-45825E2EC40A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DAA08C41-584C-440C-9574-BE8B78BA49D8} = {DAA08C41-584C-440C-9574-BE8B78BA49D8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{DAA08C41-584C-440C-9574-BE8B78BA49D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A3687D5-A607-418D-95E8-FF1EEBF02A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3687D5-A607-418D-95E8-FF1EEBF02A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3687D5-A607-418D-95E8-FF1EEBF02A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3687D5-A607-418D-95E8-FF1EEBF02A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC839A4-DF14-42A1-8C99-45825E2EC40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC839A4-DF14-42A1-8C99-45825E2EC40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC839A4-DF14-42A1-8C99-45825E2EC40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC839A4-DF14-42A1-8C99-45825E2EC40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA08C41-584C-440C-9574-BE8B78BA49D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA08C41-584C-440C-9574-BE8B78BA49D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA08C41-584C-440C-9574-BE8B78BA49D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA08C41-584C-440C-9574-BE8B78BA49D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F00BC767-7108-4932-856B-B6A5568E155C}
+	EndGlobalSection
+EndGlobal

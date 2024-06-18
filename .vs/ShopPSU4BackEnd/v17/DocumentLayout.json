@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ShopPSU4BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3687D5-A607-418D-95E8-FF1EEBF02A6D}|ShopPSU4BackEnd\\Web Api.csproj|e:\\shoppsu4backend\\shoppsu4backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3687D5-A607-418D-95E8-FF1EEBF02A6D}|ShopPSU4BackEnd\\Web Api.csproj|solutionrelative:shoppsu4backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3687D5-A607-418D-95E8-FF1EEBF02A6D}|ShopPSU4BackEnd\\Web Api.csproj|e:\\shoppsu4backend\\shoppsu4backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3687D5-A607-418D-95E8-FF1EEBF02A6D}|ShopPSU4BackEnd\\Web Api.csproj|solutionrelative:shoppsu4backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\ShopPSU4BackEnd\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ShopPSU4BackEnd\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\ShopPSU4BackEnd\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ShopPSU4BackEnd\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:05:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\ShopPSU4BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "ShopPSU4BackEnd\\Program.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\ShopPSU4BackEnd\\Program.cs",
+              "RelativeToolTip": "ShopPSU4BackEnd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:05:20.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Class1.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "DataAccessLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:05:08.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Class1.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Class1.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:03:57.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
