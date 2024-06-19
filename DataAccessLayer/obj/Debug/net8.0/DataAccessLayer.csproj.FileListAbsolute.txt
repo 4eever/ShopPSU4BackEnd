@@ -1,0 +1,15 @@
+E:\ShopPSU4BackEnd\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+E:\ShopPSU4BackEnd\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+E:\ShopPSU4BackEnd\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\ShopPSU4BackEnd\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+E:\ShopPSU4BackEnd\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

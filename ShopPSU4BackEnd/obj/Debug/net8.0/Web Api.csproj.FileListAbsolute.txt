@@ -30,3 +30,4 @@ E:\ShopPSU4BackEnd\ShopPSU4BackEnd\obj\Debug\net8.0\refint\Web Api.dll
 E:\ShopPSU4BackEnd\ShopPSU4BackEnd\obj\Debug\net8.0\Web Api.pdb
 E:\ShopPSU4BackEnd\ShopPSU4BackEnd\obj\Debug\net8.0\Web Api.genruntimeconfig.cache
 E:\ShopPSU4BackEnd\ShopPSU4BackEnd\obj\Debug\net8.0\ref\Web Api.dll
+E:\ShopPSU4BackEnd\ShopPSU4BackEnd\obj\Debug\net8.0\Web Api.sourcelink.json
