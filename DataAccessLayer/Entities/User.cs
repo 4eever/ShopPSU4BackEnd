@@ -10,20 +10,11 @@ namespace DataAccessLayer.Entities
 {
     public class User
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int UserId { get; set; }
-
-        [Required]
         public string UserLogin { get; set; } = string.Empty;
-
-        [Required]
-        public string UserPassword { get; set; } = string.Empty;
-
-        [Required]
+        public byte[] UserHashedPassword { get; internal set; } = Array.Empty<byte>();
         public string UserName { get; set; } = string.Empty;
-
-        [Required]
         public string UserSurname { get; set; } = string.Empty;
+        public ICollection<Order> Orders { get; set; } = new List<Order>();
     }
 }

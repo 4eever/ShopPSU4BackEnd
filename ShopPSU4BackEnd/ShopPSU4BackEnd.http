@@ -1,6 +1,0 @@
-@ShopPSU4BackEnd_HostAddress = http://localhost:5199
-
-GET {{ShopPSU4BackEnd_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
