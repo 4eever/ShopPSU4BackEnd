@@ -10,3 +10,7 @@ E:\ShopPSU4BackEnd\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.dll
 E:\ShopPSU4BackEnd\BusinessAccessLayer\obj\Debug\net8.0\refint\BusinessAccessLayer.dll
 E:\ShopPSU4BackEnd\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.pdb
 E:\ShopPSU4BackEnd\BusinessAccessLayer\obj\Debug\net8.0\ref\BusinessAccessLayer.dll
+E:\ShopPSU4BackEnd\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\ShopPSU4BackEnd\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\ShopPSU4BackEnd\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+E:\ShopPSU4BackEnd\BusinessAccessLayer\obj\Debug\net8.0\Business.395A7FC9.Up2Date
