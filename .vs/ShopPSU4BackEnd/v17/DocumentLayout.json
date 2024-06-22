@@ -3,6 +3,82 @@
   "WorkspaceRootPath": "E:\\ShopPSU4BackEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\icategotyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\icategotyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\mappings\\automapperorderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\mappings\\automapperorderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52073F7-D1ED-45D2-AE6D-8E01277AC28A}|Web Api\\Web Api.csproj|e:\\shoppsu4backend\\web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52073F7-D1ED-45D2-AE6D-8E01277AC28A}|Web Api\\Web Api.csproj|solutionrelative:web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E52073F7-D1ED-45D2-AE6D-8E01277AC28A}|Web Api\\Web Api.csproj|e:\\shoppsu4backend\\web api\\serviceregistrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E52073F7-D1ED-45D2-AE6D-8E01277AC28A}|Web Api\\Web Api.csproj|solutionrelative:web api\\serviceregistrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E52073F7-D1ED-45D2-AE6D-8E01277AC28A}|Web Api\\Web Api.csproj|e:\\shoppsu4backend\\web api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E52073F7-D1ED-45D2-AE6D-8E01277AC28A}|Web Api\\Web Api.csproj|solutionrelative:web api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E52073F7-D1ED-45D2-AE6D-8E01277AC28A}|Web Api\\Web Api.csproj|e:\\shoppsu4backend\\web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E52073F7-D1ED-45D2-AE6D-8E01277AC28A}|Web Api\\Web Api.csproj|solutionrelative:web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\mappings\\automapperorderitemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,68 +115,16 @@
       "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\mappings\\automapperproductprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\mappings\\automapperorderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\mappings\\automapperorderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\services\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\services\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\businessaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\businessaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|e:\\shoppsu4backend\\businessaccesslayer\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC839A4-DF14-42A1-8C99-45825E2EC40A}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,36 +135,16 @@
       "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|e:\\shoppsu4backend\\dataaccesslayer\\repositories\\icategotyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA08C41-584C-440C-9574-BE8B78BA49D8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\icategotyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E52073F7-D1ED-45D2-AE6D-8E01277AC28A}|Web Api\\Web Api.csproj|e:\\shoppsu4backend\\web api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -162,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,254 +178,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\Web Api\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Web Api\\WeatherForecast.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\Web Api\\WeatherForecast.cs",
-              "RelativeToolTip": "Web Api\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Services\\UserService.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\UserService.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Services\\UserService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:59:43.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceRegistrationExtensions.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\Web Api\\ServiceRegistrationExtensions.cs",
-              "RelativeDocumentMoniker": "Web Api\\ServiceRegistrationExtensions.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\Web Api\\ServiceRegistrationExtensions.cs",
-              "RelativeToolTip": "Web Api\\ServiceRegistrationExtensions.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowBsAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:28:47.576Z",
+              "WhenOpened": "2024-06-22T17:34:40.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AutoMapperProductProfile.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperProductProfile.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\Mappings\\AutoMapperProductProfile.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperProductProfile.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\Mappings\\AutoMapperProductProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\DTOs\\OrderDTO.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\DTOs\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:09:00.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Web Api.csproj",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\Web Api\\Web Api.csproj",
-              "RelativeDocumentMoniker": "Web Api\\Web Api.csproj",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\Web Api\\Web Api.csproj",
-              "RelativeToolTip": "Web Api\\Web Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-20T22:43:59.982Z",
+              "WhenOpened": "2024-06-21T13:52:55.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CategotyRepository.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\CategotyRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CategotyRepository.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\CategotyRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\CategotyRepository.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBUAAAAWAAAA",
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T12:47:39.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\ApplicationContext.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\ApplicationContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\ApplicationContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T12:49:56.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AutoMapperCategoryProfile.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperCategoryProfile.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\Mappings\\AutoMapperCategoryProfile.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperCategoryProfile.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\Mappings\\AutoMapperCategoryProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:02:24.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\Web Api\\Program.cs",
-              "RelativeDocumentMoniker": "Web Api\\Program.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\Web Api\\Program.cs",
-              "RelativeToolTip": "Web Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T22:41:07.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutoMapperOrderItemProfile.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperOrderItemProfile.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\Mappings\\AutoMapperOrderItemProfile.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperOrderItemProfile.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\Mappings\\AutoMapperOrderItemProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:08:07.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AutoMapperOrderProfile.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperOrderProfile.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\Mappings\\AutoMapperOrderProfile.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperOrderProfile.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\Mappings\\AutoMapperOrderProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:06:18.974Z",
+              "WhenOpened": "2024-06-21T13:52:22.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AutoMapperUserProfile.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperUserProfile.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\Mappings\\AutoMapperUserProfile.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperUserProfile.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\Mappings\\AutoMapperUserProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:10:09.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\Services\\IUserService.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IUserService.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\Services\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:44:05.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\Services\\IProductService.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IProductService.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\Services\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:43:32.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IOrderItemService.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IOrderItemService.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\Services\\IOrderItemService.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IOrderItemService.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\Services\\IOrderItemService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:42:39.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IOrderService.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\Services\\IOrderService.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IOrderService.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\Services\\IOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:42:11.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\ICategoryService.cs",
               "RelativeDocumentMoniker": "BusinessAccessLayer\\Services\\ICategoryService.cs",
               "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\ICategoryService.cs",
               "RelativeToolTip": "BusinessAccessLayer\\Services\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T14:40:46.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BusinessAccessLayer.csproj",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\BusinessAccessLayer.csproj",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
-              "RelativeToolTip": "BusinessAccessLayer\\BusinessAccessLayer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-21T14:21:01.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\DTOs\\ProductDTO.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\DTOs\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "DocumentIndex": 0,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Services\\IProductService.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IProductService.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:53:54.271Z",
+              "WhenOpened": "2024-06-21T14:43:32.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\DTOs\\UserDTO.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\DTOs\\UserDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Services\\IOrderService.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IOrderService.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:54:42.905Z",
+              "WhenOpened": "2024-06-21T14:42:11.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\DTOs\\OrderItemDTO.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\OrderItemDTO.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\DTOs\\OrderItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:53:26.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Services\\IUserService.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IUserService.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:44:05.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IUserRepository.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:21:12.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Entities\\User.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\User.cs",
@@ -438,72 +308,245 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CategoryDTO.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\CategoryDTO.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\DTOs\\CategoryDTO.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\CategoryDTO.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\DTOs\\CategoryDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwD0AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:52:22.502Z",
+              "WhenOpened": "2024-06-21T13:21:33.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OrderItemDTO.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\OrderItemDTO.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\DTOs\\OrderItemDTO.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\OrderItemDTO.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\DTOs\\OrderItemDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "DocumentIndex": 11,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\DTOs\\ProductDTO.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:53:26.748Z",
+              "WhenOpened": "2024-06-21T13:53:54.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "BusinessAccessLayer\\DTOs\\OrderDTO.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\OrderDTO.cs",
-              "RelativeToolTip": "BusinessAccessLayer\\DTOs\\OrderDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "DocumentIndex": 12,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\DTOs\\UserDTO.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:52:55.475Z",
+              "WhenOpened": "2024-06-21T13:54:42.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Order.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Entities\\Order.cs",
-              "RelativeToolTip": "DataAccessLayer\\Entities\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 13,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:12:31.139Z",
+              "WhenOpened": "2024-06-21T13:08:28.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 14,
+              "Title": "ICategotyRepository.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\ICategotyRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\ICategotyRepository.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\ICategotyRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\ICategotyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:47:14.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IProductRepository.cs",
               "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IProductRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T12:21:17.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Order.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Entities\\Order.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:12:31.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutoMapperOrderProfile.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperOrderProfile.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Mappings\\AutoMapperOrderProfile.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperOrderProfile.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Mappings\\AutoMapperOrderProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:06:18.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\Web Api\\Program.cs",
+              "RelativeDocumentMoniker": "Web Api\\Program.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\Web Api\\Program.cs",
+              "RelativeToolTip": "Web Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:41:07.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\Web Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Web Api\\WeatherForecast.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\Web Api\\WeatherForecast.cs",
+              "RelativeToolTip": "Web Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:59:43.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutoMapperCategoryProfile.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperCategoryProfile.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Mappings\\AutoMapperCategoryProfile.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperCategoryProfile.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Mappings\\AutoMapperCategoryProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:02:24.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ApplicationContext.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\ApplicationContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\ApplicationContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:49:56.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategotyRepository.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\CategotyRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CategotyRepository.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\CategotyRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CategotyRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:47:39.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web Api.csproj",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\Web Api\\Web Api.csproj",
+              "RelativeDocumentMoniker": "Web Api\\Web Api.csproj",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\Web Api\\Web Api.csproj",
+              "RelativeToolTip": "Web Api\\Web Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T22:43:59.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "AutoMapperProductProfile.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperProductProfile.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Mappings\\AutoMapperProductProfile.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperProductProfile.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Mappings\\AutoMapperProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:09:00.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceRegistrationExtensions.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\Web Api\\ServiceRegistrationExtensions.cs",
+              "RelativeDocumentMoniker": "Web Api\\ServiceRegistrationExtensions.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\Web Api\\ServiceRegistrationExtensions.cs",
+              "RelativeToolTip": "Web Api\\ServiceRegistrationExtensions.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:28:47.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AutoMapperOrderItemProfile.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperOrderItemProfile.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Mappings\\AutoMapperOrderItemProfile.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperOrderItemProfile.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Mappings\\AutoMapperOrderItemProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:08:07.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AutoMapperUserProfile.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperUserProfile.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Mappings\\AutoMapperUserProfile.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Mappings\\AutoMapperUserProfile.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Mappings\\AutoMapperUserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:10:09.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IOrderItemService.cs",
+              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IOrderItemService.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Services\\IOrderItemService.cs",
+              "ToolTip": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\Services\\IOrderItemService.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Services\\IOrderItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:42:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\ProductRepository.cs",
@@ -511,12 +554,11 @@
               "RelativeToolTip": "DataAccessLayer\\Repositories\\ProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T12:22:09.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T12:22:09.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Category.cs",
@@ -524,12 +566,11 @@
               "RelativeToolTip": "DataAccessLayer\\Entities\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T12:51:08.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T12:51:08.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\OrderItem.cs",
@@ -537,12 +578,11 @@
               "RelativeToolTip": "DataAccessLayer\\Entities\\OrderItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:14:49.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T13:14:49.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Product.cs",
@@ -550,12 +590,11 @@
               "RelativeToolTip": "DataAccessLayer\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T12:43:09.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T12:43:09.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "IOrderItemRepository.cs",
               "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IOrderItemRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IOrderItemRepository.cs",
@@ -563,25 +602,11 @@
               "RelativeToolTip": "DataAccessLayer\\Repositories\\IOrderItemRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:15:54.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T13:15:54.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\UserRepository.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:21:33.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "OrderItemRepository.cs",
               "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\OrderItemRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\OrderItemRepository.cs",
@@ -589,25 +614,11 @@
               "RelativeToolTip": "DataAccessLayer\\Repositories\\OrderItemRepository.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAQwDsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:16:20.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T13:16:20.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IUserRepository.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:21:12.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\OrderRepository.cs",
@@ -615,34 +626,7 @@
               "RelativeToolTip": "DataAccessLayer\\Repositories\\OrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:08:48.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IOrderRepository.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\IOrderRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\IOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:08:28.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ICategotyRepository.cs",
-              "DocumentMoniker": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\ICategotyRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\ICategotyRepository.cs",
-              "ToolTip": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\Repositories\\ICategotyRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\ICategotyRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T12:47:14.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T13:08:48.375Z"
             },
             {
               "$type": "Document",
@@ -654,8 +638,7 @@
               "RelativeToolTip": "Web Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T22:51:12.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T22:51:12.844Z"
             },
             {
               "$type": "Document",

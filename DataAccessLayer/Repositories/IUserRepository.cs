@@ -14,5 +14,6 @@ namespace DataAccessLayer.Repositories
         Task<User> GetUserById(int userId);
         Task UpdateUser(User user);
         Task DeleteUser(int userId);
+        Task<User> GetUserByLogin(string userLogin);
     }
 }

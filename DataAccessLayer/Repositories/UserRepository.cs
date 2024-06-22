@@ -58,5 +58,10 @@ namespace DataAccessLayer.Repositories
                 await _db.SaveChangesAsync();
             }
         }
+
+        public async Task<User> GetUserByLogin(string userLogin)
+        {
+            return await _db.Users.FirstOrDefaultAsync(user => user.UserLogin == userLogin);
+        }
     }
 }
