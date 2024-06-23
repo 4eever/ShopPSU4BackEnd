@@ -132,3 +132,14 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+/.vs/ProjectEvaluation/shoppsu4backend.metadata.v7.bin
+/.vs/ProjectEvaluation/shoppsu4backend.metadata.v8.bin
+/.vs/ProjectEvaluation/shoppsu4backend.projects.v7.bin
+/.vs/ProjectEvaluation/shoppsu4backend.projects.v8.bin
+/.vs/ShopPSU4BackEnd
+/.vs
+/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfo.cs
+/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfoInputs.cache
+/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.assets.cache
+/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.AssemblyReference.cache
+/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
