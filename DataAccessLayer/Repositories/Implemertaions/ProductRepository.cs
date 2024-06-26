@@ -1,4 +1,5 @@
 ﻿using DataAccessLayer.Entities;
+using DataAccessLayer.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -6,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer.Repositories
+namespace DataAccessLayer.Repositories.Implemertaions
 {
     public class ProductRepository : IProductRepository
     {
@@ -63,6 +64,11 @@ namespace DataAccessLayer.Repositories
                 _db.Products.Remove(product);
                 await _db.SaveChangesAsync();
             }
+        }
+
+        public async Task<Product> GetProductByName(string productName)
+        {
+            return await _db.Products.FirstOrDefaultAsync(p => p.ProductName == productName);
         }
 
     }

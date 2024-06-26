@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer.Repositories
+namespace DataAccessLayer.Repositories.Interfaces
 {
     public interface IProductRepository
     {
@@ -15,5 +15,6 @@ namespace DataAccessLayer.Repositories
         Task DeleteProduct(int productId);
         Task<List<Product>> GetAllProducts();
         Task<List<Product>> GetProductsByCategory(int categoryId);
+        Task<Product> GetProductByName(string productName);
     }
 }

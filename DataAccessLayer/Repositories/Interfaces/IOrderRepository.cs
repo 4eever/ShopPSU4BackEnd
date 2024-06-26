@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer.Repositories
+namespace DataAccessLayer.Repositories.Interfaces
 {
     public interface IOrderRepository
     {
@@ -15,5 +15,6 @@ namespace DataAccessLayer.Repositories
         Task UpdateOrder(Order order);
         Task DeleteOrder(int orderId);
         Task<List<Order>> GetAllUserOrders(int userId);
+        Task<Order> GetOrderByDateAndUserId(DateTime date, int userId);
     }
 }

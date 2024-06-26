@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {}
+    "E:\\Project\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {}
   },
   "projects": {
-    "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
+    "E:\\Project\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+        "projectUniqueName": "E:\\Project\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
         "projectName": "BusinessAccessLayer",
-        "projectPath": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+        "projectPath": "E:\\Project\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
         "packagesPath": "C:\\Users\\napna\\.nuget\\packages\\",
-        "outputPath": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\obj\\",
+        "outputPath": "E:\\Project\\ShopPSU4BackEnd\\BusinessAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\napna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj"
+              "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -53,6 +53,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
             }
           },
           "imports": [
@@ -75,14 +79,14 @@
         }
       }
     },
-    "E:\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\napna\\.nuget\\packages\\",
-        "outputPath": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\obj\\",
+        "outputPath": "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\napna\\AppData\\Roaming\\NuGet\\NuGet.Config",

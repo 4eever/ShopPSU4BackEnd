@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessAccessLayer.Services
+namespace BusinessAccessLayer.Services.Interfaces
 {
     public interface ICategoryService
     {

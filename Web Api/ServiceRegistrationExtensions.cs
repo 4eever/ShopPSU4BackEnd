@@ -1,5 +1,8 @@
 ﻿using BusinessAccessLayer.Mappings;
-using DataAccessLayer.Repositories;
+using BusinessAccessLayer.Services.Implemertaions;
+using BusinessAccessLayer.Services.Interfaces;
+using DataAccessLayer.Repositories.Implemertaions;
+using DataAccessLayer.Repositories.Interfaces;
 
 namespace Web_Api
 {
@@ -9,6 +12,7 @@ namespace Web_Api
         {
             AddRepositories(services);
             AddAutoMapperProfiles(services);
+            AddServices(services);
         }
 
         private static void AddRepositories(IServiceCollection services)
@@ -29,6 +33,14 @@ namespace Web_Api
                 typeof(AutoMapperProductProfile),
                 typeof(AutoMapperUserProfile)
 );
+        }
+
+        private static void AddServices(IServiceCollection services)
+        {
+            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IOrderService, OrderService>();
+            services.AddScoped<IProductService, ProductService>();
         }
     }
 }

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer.Repositories
+namespace DataAccessLayer.Repositories.Interfaces
 {
     public interface ICategotyRepository
     {
@@ -14,5 +14,6 @@ namespace DataAccessLayer.Repositories
         Task UpdateCategory(Category category);
         Task DeleteCategory(int categoryId);
         Task<List<Category>> GetAllCategories();
+        Task<Category> GetCategoryByName(string categoryName);
     }
 }

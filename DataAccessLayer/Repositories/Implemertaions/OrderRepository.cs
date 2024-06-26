@@ -1,4 +1,5 @@
 ﻿using DataAccessLayer.Entities;
+using DataAccessLayer.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -6,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer.Repositories
+namespace DataAccessLayer.Repositories.Implemertaions
 {
     public class OrderRepository : IOrderRepository
     {
@@ -61,6 +62,11 @@ namespace DataAccessLayer.Repositories
         public async Task<List<Order>> GetAllUserOrders(int userId)
         {
             return await _db.Orders.Where(o => o.UserId == userId).ToListAsync();
+        }
+
+        public async Task<Order> GetOrderByDateAndUserId(DateTime date, int userId)
+        {
+            return await _db.Orders.Where(o => o.OrderDate == date && o.UserId == userId).FirstOrDefaultAsync();
         }
     }
 }
