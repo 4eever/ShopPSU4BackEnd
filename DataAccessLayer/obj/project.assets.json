@@ -4416,11 +4416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\napna\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\obj\\",
+      "outputPath": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\napna\\AppData\\Roaming\\NuGet\\NuGet.Config",

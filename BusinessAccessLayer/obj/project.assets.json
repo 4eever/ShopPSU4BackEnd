@@ -3210,11 +3210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+      "projectUniqueName": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
       "projectName": "BusinessAccessLayer",
-      "projectPath": "E:\\Project\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+      "projectPath": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
       "packagesPath": "C:\\Users\\napna\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\ShopPSU4BackEnd\\BusinessAccessLayer\\obj\\",
+      "outputPath": "E:\\ShopPSU4BackEnd\\BusinessAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\napna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3232,8 +3232,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "E:\\Project\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj"
+            "E:\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "E:\\ShopPSU4BackEnd\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }
