@@ -32,7 +32,6 @@ namespace Web_Api.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            // Example: Get all products and their associated category
             var products = _productRepository.GetAll();
             foreach (var product in products)
             {
@@ -42,7 +41,6 @@ namespace Web_Api.Controllers
             return Ok(products);
         }
 
-        // Example: Get all orders for a specific user
         [HttpGet("orders/{userId}")]
         public IActionResult GetOrdersForUser(int userId)
         {
